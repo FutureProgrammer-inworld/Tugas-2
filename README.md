@@ -2,18 +2,18 @@
 tugas ini memuat script webserver analisis sederhana 
 
 informasi dataset
-nama : IMBD.csv
-berirsi : data movie 
-fitur :
-title -> judul movie
-year -> tahun rilis
-certificate -> penghargaan 
-duration -> durasi movie
-genre -> genre yang ada di dalam movie
-rating -> rating movie
-description -> deskripsi dari movie
-stars -> pemain atau aktor/aktris
-vote -> nilai dari movie
+1. nama : IMBD.csv
+2. berirsi : data movie 
+3. fitur :
+a. title -> judul movie
+b. year -> tahun rilis
+c. certificate -> penghargaan 
+d. duration -> durasi movie
+e. genre -> genre yang ada di dalam movie
+f. rating -> rating movie
+g. description -> deskripsi dari movie
+h. stars -> pemain atau aktor/aktris
+i. vote -> nilai dari movie
 
 script ini menganalisis 3 hal:
 1. genre terpopuler
