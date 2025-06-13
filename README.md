@@ -5,15 +5,15 @@ informasi dataset
 1. nama : IMBD.csv
 2. berirsi : data movie 
 3. fitur :
-a. title -> judul movie
-b. year -> tahun rilis
-c. certificate -> penghargaan 
-d. duration -> durasi movie
-e. genre -> genre yang ada di dalam movie
-f. rating -> rating movie
-g. description -> deskripsi dari movie
-h. stars -> pemain atau aktor/aktris
-i. vote -> nilai dari movie
+  1.  title -> judul movie
+  2. year -> tahun rilis
+  3. certificate -> penghargaan 
+  4. duration -> durasi movie
+  5. genre -> genre yang ada di dalam movie
+  6. rating -> rating movie
+  7. description -> deskripsi dari movie
+  8. stars -> pemain atau aktor/aktris
+  9. vote -> nilai dari movie
 
 script ini menganalisis 3 hal:
 1. genre terpopuler
