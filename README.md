@@ -2,9 +2,9 @@
 tugas ini memuat script webserver analisis sederhana 
 
 informasi dataset
-1. nama : IMBD.csv
-2. berirsi : data movie 
-3. fitur :
+nama : IMBD.csv
+berirsi : data movie
+fitur :
   1.  title -> judul movie
   2. year -> tahun rilis
   3. certificate -> penghargaan 
